@@ -1,7 +1,7 @@
 baseURL = "https://synology-tailscale-remote-access.pages.dev/"
 languageCode = "en-us"
 title = "Synology Tailscale Remote Access"
-enableRobotsTXT = true
+enableRobotsTXT = false
 disableKinds = ["taxonomy", "term"]
 [params]
 source = "synology-tailscale-remote-access"
