@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://synology-tailscale-remote-access.pages.dev/sitemap.xml
