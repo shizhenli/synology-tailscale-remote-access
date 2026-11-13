@@ -2,7 +2,9 @@ baseURL = "https://synology-tailscale-remote-access.pages.dev/"
 languageCode = "en-us"
 title = "Synology Tailscale Remote Access"
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 [params]
+template_version = "v1.1.0"
 description = "Reach a Synology NAS away from home with Tailscale, without exposing DSM to the public internet."
 category = "HomeLab"
 source = "synology-tailscale-remote-access"
