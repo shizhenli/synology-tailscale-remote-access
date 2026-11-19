@@ -1,4 +1,4 @@
-baseURL = "https://synology-tailscale-remote-access.pages.dev/"
+baseURL = "https://synology-tailscale.handytasklab.com/"
 languageCode = "en-us"
 title = "Synology Tailscale Remote Access"
 enableRobotsTXT = false
